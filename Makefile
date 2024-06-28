@@ -1,7 +1,5 @@
 # List subdirectories
-SUBDIRS = src/lib/Parse \
-          src/lib/RootedTree \
-		  src
+SUBDIRS = mlang
 
 # Default target to build all subdirectories
 all:
