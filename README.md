@@ -1,3 +1,3 @@
-<img src="https://github.com/Mantle-Core/M/assets/169231366/a76c1ee8-dd94-4ec1-8ef2-7c78337e13ba" height="100"> 
+<img src="https://github.com/Mantle-Core/mlang-project/assets/169231366/666e8fab-cc45-4043-9853-265a7a8adb94" height="100"> 
 
 # Mantle Programming Language
