@@ -1,5 +1,7 @@
 # List subdirectories
-SUBDIRS = mlang
+SUBDIRS = mlang/lib/tokenize \
+			mlang/lib \
+			mlang \
 
 # Default target to build all subdirectories
 all:
